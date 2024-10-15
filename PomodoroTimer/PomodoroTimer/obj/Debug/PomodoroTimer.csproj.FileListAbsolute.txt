@@ -1,0 +1,10 @@
+C:\Users\HL\Desktop\PomodoroTimer\PomodoroTimer\bin\Debug\PomodoroTimer.exe.config
+C:\Users\HL\Desktop\PomodoroTimer\PomodoroTimer\bin\Debug\PomodoroTimer.exe
+C:\Users\HL\Desktop\PomodoroTimer\PomodoroTimer\bin\Debug\PomodoroTimer.pdb
+C:\Users\HL\Desktop\PomodoroTimer\PomodoroTimer\obj\Debug\PomodoroTimer.csproj.AssemblyReference.cache
+C:\Users\HL\Desktop\PomodoroTimer\PomodoroTimer\obj\Debug\PomodoroTimer.Form1.resources
+C:\Users\HL\Desktop\PomodoroTimer\PomodoroTimer\obj\Debug\PomodoroTimer.Properties.Resources.resources
+C:\Users\HL\Desktop\PomodoroTimer\PomodoroTimer\obj\Debug\PomodoroTimer.csproj.GenerateResource.cache
+C:\Users\HL\Desktop\PomodoroTimer\PomodoroTimer\obj\Debug\PomodoroTimer.csproj.CoreCompileInputs.cache
+C:\Users\HL\Desktop\PomodoroTimer\PomodoroTimer\obj\Debug\PomodoroTimer.exe
+C:\Users\HL\Desktop\PomodoroTimer\PomodoroTimer\obj\Debug\PomodoroTimer.pdb
